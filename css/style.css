@@ -1,0 +1,145 @@
+/* Header start */
+.container{
+    display: flex;
+    width: 1095.19px;
+    height: 128.65px;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 213px;
+}
+
+
+.nav-container{
+    width: 100%;
+    height: 25.9px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+}
+
+.fnt-nav{
+    color: black;
+    font-size: 25px;
+}
+
+.ul-class1{
+    display: flex;
+}
+
+.li-class{
+    margin: 0 60px;
+}
+
+
+/* Hotel Picture */
+.hotel{
+    width: 100%;
+    margin-top: 40.35px;
+}
+
+
+
+/* Description1 */
+.room1{
+    display: flex;
+    justify-content: flex-end;
+    width: 1521px;
+    height: 499.91px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    margin-top: 102px;
+}
+
+.text1{
+    width: 542px;
+    height: 302.19px;
+    margin: 93px 113px 104px 0;
+}
+
+.description1{
+    margin-top: 21px;
+}
+
+
+
+/* Description2 */
+.text2{
+    width: 542px;
+    height: 302.19px;
+    margin: 93px 113px 104px 0;
+}
+
+.room2{
+    display: flex;
+    justify-content: flex-end;
+    width: 1521px;
+    height: 499.91px;
+    margin: 0 auto;
+    margin-top: 103px;
+}
+
+.description2{
+    margin-top: 21px;
+}
+
+
+
+/* Footer start*/
+.footer-div{
+    background-color: #14274A;
+    margin-top: 194.53px;   
+    width: 1920px;
+    height: 230.52px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.line{
+    display: flex;
+    width: 1409px;
+    height: 95.84px;
+    margin-left: 165px;
+    margin-right: 326px;
+}
+
+.block1{
+    width: 264px;
+    height: 95.84px;
+    margin-right: 234px;
+}
+
+.block2{
+    width: 155px;
+    height: 86.34px;
+    margin-right: 246px;
+}
+
+.block3{
+    width: 84px;
+    height: 71.66px;
+    margin-right: 200px;
+}
+
+.block4{
+    width: 220px;
+    height: 17.27px;
+}
+
+.footer-text{
+    color: white;
+    font-size: 16px;
+}
+
+.ul-class2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.lux-hot{
+    margin-bottom: 5px;
+}
+/* Footer end */
